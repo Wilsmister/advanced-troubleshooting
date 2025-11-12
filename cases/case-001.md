@@ -51,7 +51,7 @@ Relevant resources:
 
 1. 	Download the official NVIDIA GPU UEFI Firmware Update Tool 
 👉 Firmware Update Tool - [https://nvidia.custhelp.com/app/answers/detail/a_id/5665 ]
-![Boot Error](../assets/arti.png)
+![Nvidia forum](../assets/arti.png)
 
 3. 	Run the installer and apply the firmware patch to the GPU
 4. 	Reboot the system and test across multiple power cycles
