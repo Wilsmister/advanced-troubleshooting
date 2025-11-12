@@ -19,7 +19,7 @@ I explored a wide range of potential fixes, none of which solved the root proble
 •  Updated drivers via the NVIDIA control panel
 • 	Physically inspected the GPU for hardware faults
 • 	Changed power supply connections (direct outlet vs. extension)
-• 	Removed and reinstalled drivers using Display Driver Uninstaller (DDU) ![DDU Show](../assets/ddu.png)
+• 	Removed and reinstalled drivers using Display Driver Uninstaller (DDU) ![DDU Show](../assets/ddu.webp)
 
 • 	Reset CMOS, suspecting motherboard issues
 • 	Updated BIOS (already current)
