@@ -6,22 +6,24 @@ After further testing, I discovered this wasn’t limited to updates — the iss
 This was not a typical driver glitch; it was a persistent boot failure tied to GPU behavior.
 
 # 🔎 Symptoms
-• -	Infinite black screen after restart or shutdown
-• -	System failed to complete Windows updates (due to required restarts)
-• -	Dual‑monitor setup triggered boot failures more consistently
-• -	Temporary recovery only after repeated hard resets or unplugging the power 
+• 	Infinite black screen after restart or shutdown
+• 	System failed to complete Windows updates (due to required restarts)
+• 	Dual‑monitor setup triggered boot failures more consistently
+• 	Temporary recovery only after repeated hard resets or unplugging the power 
 
 #  📚 Initial Research & Attempts
 I explored a wide range of potential fixes, none of which solved the root problem:
-• -	Updated drivers via the NVIDIA control panel
-• -	Physically inspected the GPU for hardware faults
-• -	Changed power supply connections (direct outlet vs. extension)
-• -	Removed and reinstalled drivers using Display Driver Uninstaller (DDU)
-• -	Reset CMOS, suspecting motherboard issues
-• -	Updated BIOS (already current)
-• -	Tweaked Resizable BAR settings
-• -	Disabled Intel XMP (RAM overclocking)
-• -	Full system reset
+•  
+
+Updated drivers via the NVIDIA control panel
+• 	Physically inspected the GPU for hardware faults
+• 	Changed power supply connections (direct outlet vs. extension)
+• 	Removed and reinstalled drivers using Display Driver Uninstaller (DDU)
+• 	Reset CMOS, suspecting motherboard issues
+• 	Updated BIOS (already current)
+• 	Tweaked Resizable BAR settings
+• 	Disabled Intel XMP (RAM overclocking)
+• 	Full system reset
 
 
 Temporary Workarounds Discovered:
