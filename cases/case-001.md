@@ -16,7 +16,10 @@ This was not a typical driver glitch; it was a persistent boot failure tied to G
 #  📚 Initial Research & Attempts
 I explored a wide range of potential fixes, none of which solved the root problem:
 
-•  Updated drivers via the NVIDIA control panel
+•  Updated drivers via the NVIDIA control panel ![Nvidia APP](../assets/nvidia.png)
+
+
+
 • 	Physically inspected the GPU for hardware faults
 • 	Changed power supply connections (direct outlet vs. extension)
 • 	Removed and reinstalled drivers using Display Driver Uninstaller (DDU) ![DDU Show](../assets/ddu.webp)
@@ -48,10 +51,15 @@ Relevant resources:
 
 1. 	Download the official NVIDIA GPU UEFI Firmware Update Tool 
 👉 Firmware Update Tool - [https://nvidia.custhelp.com/app/answers/detail/a_id/5665 ]
-2. 	Run the installer and apply the firmware patch to the GPU
-3. 	Reboot the system and test across multiple power cycles
+![Boot Error](../assets/arti.png)
+
+3. 	Run the installer and apply the firmware patch to the GPU
+4. 	Reboot the system and test across multiple power cycles
 
 # ✅ Outcome
+A HAPPY COMPUTER :)
+![PC](../assets/pp.png)
+
 
 • 	After applying the firmware update, the PC booted normally on every restart/shutdown.
 • 	Windows updates completed successfully without intervention.
