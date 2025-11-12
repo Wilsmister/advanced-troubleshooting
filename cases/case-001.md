@@ -58,7 +58,7 @@ Relevant resources:
 
 # ✅ Outcome
 A HAPPY COMPUTER :)
-![PC](../assets/pp.png)
+![PC](../assets/pp.jpeg)
 
 
 • 	After applying the firmware update, the PC booted normally on every restart/shutdown.
