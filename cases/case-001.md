@@ -2,7 +2,8 @@
 
 # 📝 Problem Statement
 
-While performing routine Windows updates on my personal PC (running a dual‑monitor setup), the system consistently froze at 30% - ![Boot Error](../assets/30.png) progress before switching to an infinite black screen.
+While performing routine Windows updates on my personal PC (running a dual‑monitor setup), the system consistently froze at 30% progress - ![Boot Error](../assets/30.png) 
+ before switching to an infinite black screen.
 After further testing, I discovered this wasn’t limited to updates — the issue occurred on every power cycle (restart/shutdown). The machine would only boot after multiple hard resets, making it nearly unusable.
 This was not a typical driver glitch; it was a persistent boot failure tied to GPU behavior.
 
@@ -18,7 +19,8 @@ I explored a wide range of potential fixes, none of which solved the root proble
 •  Updated drivers via the NVIDIA control panel
 • 	Physically inspected the GPU for hardware faults
 • 	Changed power supply connections (direct outlet vs. extension)
-• 	Removed and reinstalled drivers using Display Driver Uninstaller (DDU)
+• 	Removed and reinstalled drivers using Display Driver Uninstaller (DDU) [DDU Show](../assets/ddu.png)
+
 • 	Reset CMOS, suspecting motherboard issues
 • 	Updated BIOS (already current)
 • 	Tweaked Resizable BAR settings
