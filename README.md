@@ -18,4 +18,4 @@ Troubleshooting is more than fixing errors — it’s about persistence, creativ
 This repository is both a personal archive and a contribution to the wider problem-solving community.
 > 💡 Feel free to explore, adapt, and contribute. If you’ve faced similar “unsolvable” problems, share your approach — together we can build a library of rare solutions.
 ## 📂 Troubleshooting Cases
-- [Case 001 – WordPress Plugin Conflict](cases/case-001.md)
+- [Case 001 – Nvidia GPU Firmware Problem](cases/case-001.md)
